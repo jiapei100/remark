@@ -1,6 +1,6 @@
 # remark
 
-[![Build Status](https://drone.io/github.com/gnab/remark/status.png)](https://drone.io/github.com/gnab/remark/latest)
+[![Build Status](https://travis-ci.org/gnab/remark.svg?branch=develop)](https://travis-ci.org/gnab/remark)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4ADT275DY7JTG)
 
 A simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS, featuring:
